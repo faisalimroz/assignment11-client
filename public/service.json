@@ -1,0 +1,9 @@
+[
+
+    {"name": "Cracked Screens","price" :3000,"description":"We repair the Cracked screen or change the display Of Your Mobile. We provide original display" ,"img": "https://i.ibb.co/0s5X4Mp/display-repair.jpg" },
+    {"name": "Broken Casings","price" :1000,"description":"We repair the Broken Casing of Mobile or replace the casing very carefully " ,"img": "https://i.ibb.co/b7bYTx7/download.jpg" },
+    {"name": "Sofware Fixes","price" :2000,"description":"We solve the software related Problems of Mobile. " ,"img": "https://i.ibb.co/ryc7S9X/Sofware-Fixes.jpg" },
+    {"name": "Battery Replacement","price" :500,"description":"Damaged Battery can be replaced. We Provide battery replacement service" ,"img": "https://i.ibb.co/LN0rX4z/battery-Replacement.jpg" },
+    {"name": "Non Working Buttons","price" :1500,"description":"Non working buttons like Power button can be repaired. we provide the best service in town" ,"img": "https://i.ibb.co/f99K0Lv/Non-Working-Buttons.jpg" },
+    {"name": "Broken Inputs","price" :2500,"description":"Broken Inputs can repaired or replaced. We are very known to repair broken inputs" ,"img": "https://i.ibb.co/4fTNzFS/Broken-Inputs.jpg" }
+]
